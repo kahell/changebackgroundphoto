@@ -16,4 +16,5 @@ This script for change background photo using python
 - `export API_KEY_RM_BG=<API-KEY-RM-BG> `
 - run `python3 app.py`
 
-# Refs: https://www.remove.bg/api#get-started
+## references: 
+- https://www.remove.bg/api#get-started
